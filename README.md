@@ -177,7 +177,7 @@ Sai Mhapasekar
 * Machine Learning & AI Learner
 
 GitHub:
-Saim2600 GitHub￼
+[Saim2600 GitHub￼](https://github.com/Saim2600)
 
 Gmail:
 saimhapasekar2600@gmail.com
